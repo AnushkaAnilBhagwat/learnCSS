@@ -1,0 +1,16 @@
+/* element selector */
+header {
+    color: rgb(122, 0, 236);
+}
+/* ID selector */
+#ID {
+    font-style: italic;
+}
+/* Class selector */
+.purple {
+    background-color: plum;
+}
+/* ID ke para ko color dena hai. */
+#ID > p {
+    color: blueviolet;
+}
